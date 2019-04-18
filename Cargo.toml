@@ -1,0 +1,12 @@
+[package]
+name = "rs64-periph"
+version = "0.1.0"
+authors = ["monocasa <tristan.hastings.miller@gmail.com>"]
+edition = "2018"
+description = "Fairly raw N64 MMIO definitions"
+license = "MIT"
+repository = "https://github.com/monocasa/rs64-periph"
+homepage = "https://github.com/monocasa/rs64-periph"
+
+[dependencies]
+volatile = "0.2.3"
